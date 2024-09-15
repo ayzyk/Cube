@@ -1,0 +1,31 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/ayzyk/Downloads/Программирование /Cubick/cube.c/cube"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _calculateX, symObjAddr: 0x0, symBinAddr: 0x1000031BC, symSize: 0x234 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _cubeWidth, symObjAddr: 0xD98, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x5B, offset: 0x5B, size: 0x8, addend: 0x0, symName: _width, symObjAddr: 0xD9C, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _height, symObjAddr: 0xDA0, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x8C, offset: 0x8C, size: 0x8, addend: 0x0, symName: _backgroundASCIICode, symObjAddr: 0xDA4, symBinAddr: 0x10000800C, symSize: 0x0 }
+  - { offsetInCU: 0xA1, offset: 0xA1, size: 0x8, addend: 0x0, symName: _distanceFromCam, symObjAddr: 0xDA8, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offsetInCU: 0xB6, offset: 0xB6, size: 0x8, addend: 0x0, symName: _K1, symObjAddr: 0xDAC, symBinAddr: 0x100008014, symSize: 0x0 }
+  - { offsetInCU: 0xCB, offset: 0xCB, size: 0x8, addend: 0x0, symName: _incrementSpeed, symObjAddr: 0xDB0, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offsetInCU: 0xEE, offset: 0xEE, size: 0x8, addend: 0x0, symName: _A, symBinAddr: 0x10000801C, symSize: 0x0 }
+  - { offsetInCU: 0x103, offset: 0x103, size: 0x8, addend: 0x0, symName: _B, symBinAddr: 0x100008020, symSize: 0x0 }
+  - { offsetInCU: 0x118, offset: 0x118, size: 0x8, addend: 0x0, symName: _C, symBinAddr: 0x100008024, symSize: 0x0 }
+  - { offsetInCU: 0x12D, offset: 0x12D, size: 0x8, addend: 0x0, symName: _zBuffer, symBinAddr: 0x100009BC8, symSize: 0x0 }
+  - { offsetInCU: 0x14F, offset: 0x14F, size: 0x8, addend: 0x0, symName: _buffer, symBinAddr: 0x100008028, symSize: 0x0 }
+  - { offsetInCU: 0x171, offset: 0x171, size: 0x8, addend: 0x0, symName: _horizontalOffset, symBinAddr: 0x100009BA8, symSize: 0x0 }
+  - { offsetInCU: 0x186, offset: 0x186, size: 0x8, addend: 0x0, symName: _x, symBinAddr: 0x100009BB4, symSize: 0x0 }
+  - { offsetInCU: 0x19B, offset: 0x19B, size: 0x8, addend: 0x0, symName: _y, symBinAddr: 0x100009BBC, symSize: 0x0 }
+  - { offsetInCU: 0x1B0, offset: 0x1B0, size: 0x8, addend: 0x0, symName: _z, symBinAddr: 0x100009BC4, symSize: 0x0 }
+  - { offsetInCU: 0x1C5, offset: 0x1C5, size: 0x8, addend: 0x0, symName: _ooz, symBinAddr: 0x100009BB0, symSize: 0x0 }
+  - { offsetInCU: 0x1DA, offset: 0x1DA, size: 0x8, addend: 0x0, symName: _xp, symBinAddr: 0x100009BB8, symSize: 0x0 }
+  - { offsetInCU: 0x1EF, offset: 0x1EF, size: 0x8, addend: 0x0, symName: _yp, symBinAddr: 0x100009BC0, symSize: 0x0 }
+  - { offsetInCU: 0x204, offset: 0x204, size: 0x8, addend: 0x0, symName: _idx, symBinAddr: 0x100009BAC, symSize: 0x0 }
+  - { offsetInCU: 0x20D, offset: 0x20D, size: 0x8, addend: 0x0, symName: _calculateX, symObjAddr: 0x0, symBinAddr: 0x1000031BC, symSize: 0x234 }
+  - { offsetInCU: 0x251, offset: 0x251, size: 0x8, addend: 0x0, symName: _calculateY, symObjAddr: 0x234, symBinAddr: 0x1000033F0, symSize: 0x234 }
+  - { offsetInCU: 0x295, offset: 0x295, size: 0x8, addend: 0x0, symName: _calculateZ, symObjAddr: 0x468, symBinAddr: 0x100003624, symSize: 0x118 }
+  - { offsetInCU: 0x2D9, offset: 0x2D9, size: 0x8, addend: 0x0, symName: _calculateForSurface, symObjAddr: 0x580, symBinAddr: 0x10000373C, symSize: 0x234 }
+  - { offsetInCU: 0x327, offset: 0x327, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x7B4, symBinAddr: 0x100003970, symSize: 0x5D0 }
+...
